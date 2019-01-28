@@ -6,4 +6,4 @@
    ### Size of raw data - 
    60 GB
    ### Languages/Tools Used - 
-   Python, Jupyter Notebooks, SQL, Hive, Apache Spark, Pandas, NumPy, Matplotlib, Folium Maps
+   Python, Jupyter Notebooks, SQL, Hive, Apache Spark, Pandas, NumPy, NLTK, Matplotlib, Folium Maps
